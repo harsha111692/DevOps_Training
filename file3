@@ -1,2 +1,8 @@
+
 This is the file i created to make a merge conflict by creating the same file name both in main and branch2.
 Lets see how to fix in the next steps.
+
+This is the file createdin branch1
+
+
+Here i made the solution by making necesseray changes in the file by editing the file by taking the pull request option then and editing the file document using web or by using command line interface to edit and resolve the merge conflict.
